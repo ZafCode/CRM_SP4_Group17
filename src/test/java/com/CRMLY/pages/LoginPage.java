@@ -8,7 +8,7 @@ import org.openqa.selenium.support.FindBy;
 
 public class LoginPage extends BasePage{
 
-   // ConfigurationReader conf = new ConfigurationReader();
+
 
     @FindBy(name = "USER_LOGIN")
     public WebElement user;
