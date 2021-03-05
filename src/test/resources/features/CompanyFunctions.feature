@@ -1,4 +1,4 @@
-@m
+@company
 Feature: Company Functionality
   Background:
     Given user log in with HR credentials
