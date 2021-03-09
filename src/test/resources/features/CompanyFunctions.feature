@@ -33,6 +33,10 @@ Feature: Company Functionality
     When the user navigates to "Company" tab "Video" module
     Then the user should display Video Player window
 
+  Scenario: Displaying Vacancy button
+    When the user navigates to "Company" tab "Career" module
+    Then the user should display Vacancy button
+
   Scenario: Displaying news under Business News(RSS) menu
-    When the user navigates to "Company" tab "Business News (RSS)" module
+    When the user navigate to "Company" tab "Business News (RSS)" module
     Then the user should display news under Business News(RSS) menu
