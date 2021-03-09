@@ -15,7 +15,7 @@ import org.junit.runner.RunWith;
         glue = "com/CRMLY/stepdefinitions",
         dryRun = false,
 
-        tags = "@CRM-201"
+        tags = "@wip"
 
 )
 public class CukesRunner {
