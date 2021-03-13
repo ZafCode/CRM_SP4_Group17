@@ -21,7 +21,6 @@ public class LoginPage extends BasePage{
 
 
     public void loginHR (){
-        BrowserUtils.waitFor(2);
         user.sendKeys(ConfigurationReader.get("hr_username"));
         pass.sendKeys(ConfigurationReader.get("hr_password"));
         submit.click();

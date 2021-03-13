@@ -1,6 +1,10 @@
 /.idea/
 /CRM_SP4_Group17.iml
 /target/
+/src/test/java/com/CRMLY/pages/BasePage.java
+/src/test/java/com/CRMLY/pages/LoginPage.java
+/src/test/java/com/CRMLY/pages/TasksPage.java
+/src/test/java/com/CRMLY/pages/TrainingFuncPage.java
 /src/test/resources/features/TrainingFunction.feature
 /src/test/resources/features/Tasks.feature
 /src/test/resources/features/MessageFunctionality.feature
@@ -15,6 +19,5 @@
 /src/test/java/com/CRMLY/stepdefinitions/LoginStepDefs.java
 /src/test/java/com/CRMLY/stepdefinitions/Hooks.java
 /src/test/java/com/CRMLY/runners/
-/src/test/java/com/CRMLY/pages/
 /configuration.properties
 /pom.xml
